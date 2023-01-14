@@ -132,3 +132,7 @@ ENV/
 
 # Datasets
 MNIST*
+Test_Minist/.DS_Store
+Test_Minist/models/segformer_7data.pth
+*.pth
+Test_Minist/models/segformer_7data.pth
